@@ -1,0 +1,1 @@
+# demohotel-odoo.sh
